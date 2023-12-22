@@ -1,4 +1,4 @@
-name: "Image-creation-production"
+name: "create ami for prod"
 
 on:
   push:
